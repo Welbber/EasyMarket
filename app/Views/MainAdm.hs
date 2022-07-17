@@ -17,7 +17,7 @@ mainAdm conn id_estabelecimento = do
     putStrLn "             |A|D|M|"
     putStrLn "             +-+-+-+"
 
-    putStrLn " ==================================== "
+    putStrLn " ===================================== "
     putStrLn "|                                    |"
     putStrLn "|       1- CADASTRAR PRODUTO         |"
     putStrLn "|       2- EXCLUIR PRODUTO           |"
@@ -25,7 +25,7 @@ mainAdm conn id_estabelecimento = do
     putStrLn "|       4- VER INFORMAÇÕES CONTA     |"
     putStrLn "|       5- SAIR                      |"
     putStrLn "|                                    |"
-    putStrLn " ==================================== "
+    putStrLn " ===================================== "
 
     putStrLn "Digite sua opção:"
     input <- getLine
