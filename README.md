@@ -2,12 +2,16 @@
 
 > Baseando-se na realidade, observamos que pequenos comerciantes costumam ter dificuldades para gerenciar seu negócio devido à falta de acesso a softwares de administração com interfaces user-friendly. O projeto a ser desenvolvido pela equipe consiste em uma aplicação que será desenvolvida nas linguagens de programação: Haskell e Prolog. Nesse sentido, a ideia pensada por nosso grupo pretende fornecer a esses comerciantes um sistema que permita administrar o comércio deles de forma facilitada.
 
-- As instruções abaixo vão demonstrar alguns pontos importantes para o desenvolvimento do projeto.
+### As instruções abaixo vão demonstrar alguns pontos importantes para o desenvolvimento do projeto haskell.
 - GHC 8.10.7;
 - Cabal 3.6.2.0;
 - PSQL (PostgreSQL) 12.11
 
-## Build Aplication
+
+### As instruções abaixo vão demonstrar alguns pontos importantes para o desenvolvimento do projeto haskell.
+- SWI-Prolog version 8.4.3 for x85_64-linux
+
+## Build Aplication Haskell Project
 
 > Instalação  GHCUP no Ubuntu
 ```
