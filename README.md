@@ -8,7 +8,7 @@
 - PSQL (PostgreSQL) 12.11
 
 
-### As instruções abaixo vão demonstrar alguns pontos importantes para o desenvolvimento do projeto haskell.
+### As instruções abaixo vão demonstrar alguns pontos importantes para o desenvolvimento do projeto Prolog.
 - SWI-Prolog version 8.4.3 for x85_64-linux
 
 ## Build Aplication Haskell Project
